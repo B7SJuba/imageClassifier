@@ -10,7 +10,6 @@ import seaborn as sns
 from sklearn.metrics import classification_report
 import pickle
 
-
 # Provide the path for training and test for each category to be classified and make sure that the data is clean,
 # without any corrupted images.
 SampleImage = r"path/to/a/sample/image.*"
