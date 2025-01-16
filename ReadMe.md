@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image Classification Program
 
 This Python program classifies images into categories such as cars, buses, motorcycles, and trucks using either the Support Vector Machine (SVM) or K-Nearest Neighbors (KNN) algorithms. It extracts image features using Histogram of Oriented Gradients (HOG) and provides an interface to classify new images interactively.
@@ -108,7 +107,7 @@ Predicted class is: car
 
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
-=======
+
 # Image Classification Program
 
 This Python program classifies images into categories such as cars, buses, motorcycles, and trucks using either the Support Vector Machine (SVM) or K-Nearest Neighbors (KNN) algorithms. It extracts image features using Histogram of Oriented Gradients (HOG) and provides an interface to classify new images interactively.
@@ -218,4 +217,3 @@ Predicted class is: car
 
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
->>>>>>> dcdf21ce7d1d5d9360509d99f718253b082bacdd

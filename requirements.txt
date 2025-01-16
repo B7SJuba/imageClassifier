@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 absl-py==1.4.0
 astunparse==1.6.3
 cachetools==5.3.0
@@ -64,7 +63,6 @@ tzdata==2023.3
 urllib3==2.0.2
 Werkzeug==2.3.4
 wrapt==1.14.1
-=======
 absl-py==1.4.0
 astunparse==1.6.3
 cachetools==5.3.0
@@ -130,4 +128,3 @@ tzdata==2023.3
 urllib3==2.0.2
 Werkzeug==2.3.4
 wrapt==1.14.1
->>>>>>> dcdf21ce7d1d5d9360509d99f718253b082bacdd

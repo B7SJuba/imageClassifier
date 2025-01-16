@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -423,7 +422,6 @@ def Choice():
         Choice()
 
 #Calling the function
-=======
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -849,5 +847,5 @@ def Choice():
         Choice()
 
 #Calling the function
->>>>>>> dcdf21ce7d1d5d9360509d99f718253b082bacdd
+
 Choice()
